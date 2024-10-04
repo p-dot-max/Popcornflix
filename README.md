@@ -38,22 +38,10 @@
     <li>Explore adding social sharing features to enhance user engagement.</li>
 </ul>
 
-<hr>
-
-<h2>👨‍💻 Contributing</h2>
-<p>Contributions are welcome! Feel free to submit issues or pull requests to improve the project.</p>
-
-<hr>
 
 <h2>📄 License</h2>
 <p>This project is licensed under the MIT License. See the <a href="LICENSE">LICENSE</a> file for more details.</p>
 
-<hr>
-
-<h2>🔗 Demo</h2>
-<p>Check out the live demo <a href="https://your-live-demo-link.com" target="_blank">here</a>.</p>
-
-<hr>
 
 <h2>📦 Repository</h2>
 <p>Access the source code on GitHub: <a href="https://github.com/p-dot-max/Popcornflix.git" target="_blank">Popcornflix Repository</a></p>
